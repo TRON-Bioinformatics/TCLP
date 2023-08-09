@@ -8,11 +8,8 @@ Human cancer cell lines are an important resource for research and drug developm
 
 The data from the portal is stored here (or in DropBox) as text files:
 
-TRON_expression_values.txt - matrix of cell lines and gene expression values \
-(https://www.dropbox.com/scl/fi/36ycwvot25dbwv0u2r1vg/TRON_expression_values.txt?rlkey=rhve8omp61uv8nl92l990d4uh&dl=0)
-
-cell-line-class1-mhc-alleles.csv - list of class 1 MHC alleles per cell line \
+ - [TRON_expression_values.txt](https://www.dropbox.com/scl/fi/36ycwvot25dbwv0u2r1vg/TRON_expression_values.txt?rlkey=rhve8omp61uv8nl92l990d4uh&dl=0) - matrix of cell lines and gene expression values 
+- [cell-line-class1-mhc-alleles.csv](cell-line-class1-mhc-alleles.csv) - list of class 1 MHC alleles per cell line 
 (copied from https://github.com/openvax/cancer-cell-line-mhc-alleles)
+- [TCLP_neoepitope_catalog.csv](https://www.dropbox.com/scl/fi/kltz9jyf0wboxg0z4rah0/TCLP_neoepitope_catalog.csv?rlkey=rou7gkn1hcxebdfzi8gt8l5fx&dl=0) - original catalog of neoepitopes 
 
-TCLP_neoepitope_catalog.csv - original catalog of neoepitopes \
-(https://www.dropbox.com/scl/fi/kltz9jyf0wboxg0z4rah0/TCLP_neoepitope_catalog.csv?rlkey=rou7gkn1hcxebdfzi8gt8l5fx&dl=0)
